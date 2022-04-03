@@ -9,6 +9,7 @@ for line in file:
     decoded_line = line.decode('utf-8')
     sample_input.append(list(map(int, decoded_line.split())))
 
+print(sample_input)
 
 cases = sample_input[0][0]
 

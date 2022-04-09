@@ -23,3 +23,11 @@
 | C | [d1000000](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a46471) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Qualification%20Round/d1000000.py) |
 | D | [Chain Reactions](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a45ef7) | [Python 3 (first approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Qualification%20Round/chain_reactions.py), [Python 3 (second approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Qualification%20Round/chain_reactions_2.py), [Python 3 (third approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Qualification%20Round/chain_reactions_3.py) |
 | E | [Twisty Little Passages](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a45fc0) |  |
+
+## [Round 1A](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5)
+
+| # | Problem | Solution |
+|---|---------|----------|
+| A | [Double or One Thing](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8e9c) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Round%201A/double_or_one_thing.py) |
+| B | [Equal Sum](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8fc1) |  |
+| C | [Weightlifting](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa9280) |  |

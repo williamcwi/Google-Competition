@@ -29,5 +29,5 @@
 | # | Problem | Solution |
 |---|---------|----------|
 | A | [Double or One Thing](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8e9c) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Round%201A/double_or_one_thing.py) |
-| B | [Equal Sum](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8fc1) |  |
+| B | [Equal Sum](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8fc1) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Round%201A/equal_sum.py) |
 | C | [Weightlifting](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa9280) |  |

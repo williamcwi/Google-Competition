@@ -1,24 +1,8 @@
-import urllib.request
 import re
 import itertools
 from operator import itemgetter
 
-url = 'https://codejam.googleapis.com/dashboard/get_file/AQj_6U3PbqYbwiFNAMPP1wOKIuVr4GSkRpG7b59EQpIC8rj-17A-ZkbjiEJqgR20vWN5WZowHUAPq_pX72W9kPRHZAlfCOxx5UQCXNY/moons_and_umbrellas_sample_ts1_input.txt'
-file = urllib.request.urlopen(url)
-
-sample_input = []
-
-for line in file:
-    decoded_line = line.decode('utf-8')
-    sample_input.append(decoded_line.split())
-
-cases = int(sample_input[0][0])
-
-for case in range(1, cases + 1):
-    x = int(sample_input[case][0])
-    y = int(sample_input[case][1])
-
-    mural = sample_input[case][2]
+def solve(x, y, mural):
 
     # replace ?
 
@@ -31,7 +15,7 @@ for case in range(1, cases + 1):
 
     comb = itertools.product('CJ', repeat=len(spaceSets))
 
-    totalCost = 999999
+    result = 999999
 
     for c in comb:
         for set, i in zip(spaceSets, range(len(c))):
@@ -47,8 +31,17 @@ for case in range(1, cases + 1):
 
         cost = numOfCJ * x + numOfJC * y
 
-        if totalCost > cost:
-            totalCost = cost
+        if result > cost:
+            result = cost
 
+    return result
 
-    print('Case #{}: {}'.format(case, totalCost))
+if __name__ == '__main__':
+    t = int(input())
+    for case in range(1, t+1):
+        line = list(map(str, input().split()))
+        x = int(line[0])
+        y = int(line[1])
+        mural = str(line[2])
+        result = solve(x, y, mural)
+        print('Case #{}: {}'.format(case, result))

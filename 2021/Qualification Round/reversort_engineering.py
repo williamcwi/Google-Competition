@@ -1,25 +1,13 @@
-import urllib.request
+def solve(line):
 
-url = 'https://codejam.googleapis.com/dashboard/get_file/AQj_6U0EtMCjGToGmQv7SPkCLI9s6BjlJ4beemcz3ip15OZehkZ10NgcOEB1AwiHWSUUZ5_G9pEGAmqU70oZzJpolOlaNPXhewMtn1WUMg/reversort_engineering_sample_ts1_input.txt'
-file = urllib.request.urlopen(url)
-
-sample_input = []
-
-for line in file:
-    decoded_line = line.decode('utf-8')
-    sample_input.append(list(map(int, decoded_line.split())))
-
-cases = sample_input[0][0]
-
-for case in range(1, cases + 1):
-    numOfElements = sample_input[case][0]
-    cost = sample_input[case][1]
+    numOfElements = line[0]
+    cost = line[1]
 
     low = numOfElements - 1
     high = int(((numOfElements * (numOfElements + 1)) / 2) - 1)
 
     if cost < low or cost > high:
-        string = 'IMPOSSIBLE'
+        result = 'IMPOSSIBLE'
     else:
         ans = [None] * numOfElements
 
@@ -59,7 +47,13 @@ for case in range(1, cases + 1):
         for i in reverse[::-1]:
             ans[i[0]:i[1]] = ans[i[0]:i[1]][::-1]
 
-        string = ' '.join(str(e) for e in ans)
+        result = ' '.join(str(e) for e in ans)
 
+    return result
 
-    print('CASE #{}: {}'.format(case, string))
+if __name__ == '__main__':
+    t = int(input())
+    for case in range(1, t+1):
+        line = list(map(int, input().split()))
+        result = solve(line)
+        print('Case #{}: {}'.format(case, result))

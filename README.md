@@ -33,6 +33,15 @@ For more information, visit [Code Jam](https://codingcompetitions.withgoogle.com
 | A | [Append Sort](https://codingcompetitions.withgoogle.com/codejam/round/000000000043585d/00000000007549e5) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2021/Round%201A/append_sort.py) |
 | B | [Prime Time](https://codingcompetitions.withgoogle.com/codejam/round/000000000043585d/00000000007543d8) |  |
 | C | [Hacked Exam](https://codingcompetitions.withgoogle.com/codejam/round/000000000043585d/0000000000754750) |  |
+
+## [Round 1B](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435baf)
+
+| # | Problem | Solution |
+|---|---------|----------|
+| A | [Broken Clock](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435baf/00000000007ae694) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2021/Round%201B/broken_clock.py) |
+| B | [Subtransmutation](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435baf/00000000007ae4aa) |  |
+| C | [Digit Blocks](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435baf/00000000007ae37b) |  |
+
 # 2022
 
 ## [Qualification Round](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1)

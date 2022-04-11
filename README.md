@@ -42,6 +42,14 @@ For more information, visit [Code Jam](https://codingcompetitions.withgoogle.com
 | B | [Subtransmutation](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435baf/00000000007ae4aa) |  |
 | C | [Digit Blocks](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435baf/00000000007ae37b) |  |
 
+## [Round 1C](https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7)
+
+| # | Problem | Solution |
+|---|---------|----------|
+| A | [Closest Pick](https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c0f00) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2021/Round%201C/closest_pick.py) |
+| B | [Roaring Years](https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c0f01) |  |
+| C | [Double or NOTing](https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c1139) |  |
+
 # 2022
 
 ## [Qualification Round](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1)

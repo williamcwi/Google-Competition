@@ -60,7 +60,7 @@ For more information, visit [Code Jam](https://codingcompetitions.withgoogle.com
 | B | [3D Printing](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a4672b) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Qualification%20Round/3d_printing.py) |
 | C | [d1000000](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a46471) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Qualification%20Round/d1000000.py) |
 | D | [Chain Reactions](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a45ef7) | [Python 3 (first approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Qualification%20Round/chain_reactions.py), [Python 3 (second approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Qualification%20Round/chain_reactions_2.py), [Python 3 (third approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Qualification%20Round/chain_reactions_3.py) |
-| E | [Twisty Little Passages](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a45fc0) |  |
+| E | [Twisty Little Passages](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a45fc0) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Qualification%20Round/twisty_little_passages.py) |
 
 ## [Round 1A](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5)
 

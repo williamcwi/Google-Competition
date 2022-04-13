@@ -9,13 +9,13 @@ def get_room():
         quit()
 
 def walk():
-    print('W')
+    print('W', flush=True)
 
 def teleport(location):
-    print('T {}'.format(location))
+    print('T {}'.format(location), flush=True)
 
 def guess(location):
-    print('E {}'.format(location))
+    print('E {}'.format(location), flush=True)
 
 def solve(n, k):
 

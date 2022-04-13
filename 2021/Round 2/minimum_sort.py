@@ -1,8 +1,8 @@
 def query(start, end):
-    print('M {} {}'.format(start, end))
+    print('M {} {}'.format(start, end), flush=True)
 
 def swap(pos1, pos2):
-    print('S {} {}'.format(pos1, pos2))
+    print('S {} {}'.format(pos1, pos2), flush=True)
 
 def solve(n):
     for i in range(1, n):

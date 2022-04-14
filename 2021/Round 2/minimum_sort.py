@@ -1,8 +1,14 @@
 def query(start, end):
-    print('M {} {}'.format(start, end), flush=True)
+    if start < end:
+        print('M {} {}'.format(start, end), flush=True)
+    else:
+        print('M {} {}'.format(end, start), flush=True)
 
 def swap(pos1, pos2):
-    print('S {} {}'.format(pos1, pos2), flush=True)
+    if pos1 < pos2:
+        print('S {} {}'.format(pos1, pos2), flush=True)
+    else:
+        print('S {} {}'.format(pos2, pos1), flush=True)
 
 def solve(n):
     for i in range(1, n):
@@ -10,11 +16,11 @@ def solve(n):
         end = n
         query(start, end)
         min = int(input())
-        if min is not i:
+        if min != i:
             swap(min, i)
     print('D')
     result = int(input())
-    if result is not 1:
+    if result != 1:
         quit()
 
 if __name__ == '__main__':

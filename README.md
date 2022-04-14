@@ -50,6 +50,15 @@ For more information, visit [Code Jam](https://codingcompetitions.withgoogle.com
 | B | [Roaring Years](https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c0f01) |  |
 | C | [Double or NOTing](https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c1139) |  |
 
+## [Round 2](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435915)
+
+| # | Problem | Solution |
+|---|---------|----------|
+| A | [Minimum Sort](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435915/00000000007dc51c) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2021/Round%202/minimum_sort.py) |
+| B | [Matrygons](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435915/00000000007dbf06) |  |
+| C | [Hidden Pancakes](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435915/00000000007dc20c) |  |
+| D | [Retiling](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435915/00000000007dc2de) |  |
+
 # 2022
 
 ## [Qualification Round](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1)

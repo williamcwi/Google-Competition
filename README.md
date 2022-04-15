@@ -14,6 +14,33 @@ The top 25 contestants from Code Jam Online Round 3 will compete in the Virtual 
 
 For more information, visit [Code Jam](https://codingcompetitions.withgoogle.com/codejam)
 
+<!-- 
+TEMPLATE
+# year
+
+## []()
+
+| # | Problem | Solution |
+|---|---------|----------|
+| A | []() |  |
+| B | []() |  |
+| C | []() |  |
+| D | []() |  |
+| E | []() |  |
+ -->
+
+# 2020
+
+## [Qualification Round](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27)
+
+| # | Problem | Solution |
+|---|---------|----------|
+| A | [Vestigium](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020993c) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Qualification%20Round/vestigium.py) |
+| B | [Nesting Depth](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9f) |  |
+| C | [Parenting Partnering Returns](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9) |  |
+| D | [ESAb ATAd](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9e) |  |
+| E | [Indicium](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209aa0) |  |
+
 # 2021
 
 ## [Qualification Round](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a)

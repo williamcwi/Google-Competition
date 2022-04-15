@@ -36,7 +36,7 @@ TEMPLATE
 | # | Problem | Solution |
 |---|---------|----------|
 | A | [Vestigium](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020993c) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Qualification%20Round/vestigium.py) |
-| B | [Nesting Depth](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9f) |  |
+| B | [Nesting Depth](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9f) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Qualification%20Round/nesting_depth.py) |
 | C | [Parenting Partnering Returns](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9) |  |
 | D | [ESAb ATAd](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9e) |  |
 | E | [Indicium](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209aa0) |  |

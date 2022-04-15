@@ -38,7 +38,7 @@ TEMPLATE
 | A | [Vestigium](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020993c) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Qualification%20Round/vestigium.py) |
 | B | [Nesting Depth](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9f) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Qualification%20Round/nesting_depth.py) |
 | C | [Parenting Partnering Returns](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Qualification%20Round/parenting_partnering_returns.py) |
-| D | [ESAb ATAd](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9e) |  |
+| D | [ESAb ATAd](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9e) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Qualification%20Round/ESAb_ATAd.py) |
 | E | [Indicium](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209aa0) |  |
 
 # 2021

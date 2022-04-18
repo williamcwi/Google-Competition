@@ -46,7 +46,7 @@ TEMPLATE
 | # | Problem | Solution |
 |---|---------|----------|
 | A | [Pattern Matching](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b3034) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Round%201A/pattern_matching.py) |
-| B | [Pascal Walk](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1353) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Round%201A/pascal_walk.py) |
+| B | [Pascal Walk](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1353) | [Python 3 (first approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Round%201A/pascal_walk.py), [Python 3 (second approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Round%201A/pascal_walk_2.py) |
 | C | [Square Dance](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1355) |  |
 
 # 2021

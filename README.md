@@ -49,6 +49,14 @@ TEMPLATE
 | B | [Pascal Walk](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1353) | [Python 3 (first approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Round%201A/pascal_walk.py), [Python 3 (second approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Round%201A/pascal_walk_2.py) |
 | C | [Square Dance](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1355) |  |
 
+## [Round 1B](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2)
+
+| # | Problem | Solution |
+|---|---------|----------|
+| A | [Expogo](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b62) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Round%201B/expogo.py) |
+| B | [Blindfolded Bullseye](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b63) |  |
+| C | [Join the Ranks](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b64) |  |
+
 # 2021
 
 ## [Qualification Round](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a)

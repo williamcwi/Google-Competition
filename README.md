@@ -53,7 +53,7 @@ TEMPLATE
 
 | # | Problem | Solution |
 |---|---------|----------|
-| A | [Expogo](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b62) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Round%201B/expogo.py) |
+| A | [Expogo](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b62) | [Python 3 (first approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Round%201B/expogo.py), [Python 3 (second approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Round%201B/expogo_2.py) |
 | B | [Blindfolded Bullseye](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b63) |  |
 | C | [Join the Ranks](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b64) |  |
 

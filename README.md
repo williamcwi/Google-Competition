@@ -57,6 +57,14 @@ TEMPLATE
 | B | [Blindfolded Bullseye](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b63) |  |
 | C | [Join the Ranks](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b64) |  |
 
+## [Round 1C](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef4)
+
+| # | Problem | Solution |
+|---|---------|----------|
+| A | [Overexcited Fan](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef4/0000000000317409) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2021/Round%201C/overexcited_fan.py) |
+| B | [Overrandomized](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef4/00000000003179a1) |  |
+| C | [Oversized Pancake Choppers](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef4/00000000003172d1) |  |
+
 # 2021
 
 ## [Qualification Round](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a)

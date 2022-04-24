@@ -129,3 +129,11 @@ TEMPLATE
 | A | [Double or One Thing](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8e9c) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Round%201A/double_or_one_thing.py) |
 | B | [Equal Sum](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8fc1) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Round%201A/equal_sum.py) |
 | C | [Weightlifting](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa9280) |  |
+
+## [Round 1B](https://codingcompetitions.withgoogle.com/codejam/round/000000000087711b)
+
+| # | Problem | Solution |
+|---|---------|----------|
+| A | [Pancake Deque](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8e9c) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Round%201B/pancake_deque.py) |
+| B | [Controlled Inflation](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8fc1) | [Python 3 (first approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Round%201B/controlled_inflation.py), [Python 3 (second approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Round%201B/controlled_inflation_2.py) |
+| C | [ASeDatAb](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa9280) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Round%201B/ASeDatAb.py) |

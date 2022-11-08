@@ -35,25 +35,25 @@ TEMPLATE
 
 | # | Problem | Solution |
 |---|---------|----------|
-| A | [Vestigium](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020993c) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Qualification%20Round/vestigium.py) |
-| B | [Nesting Depth](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9f) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Qualification%20Round/nesting_depth.py) |
-| C | [Parenting Partnering Returns](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Qualification%20Round/parenting_partnering_returns.py) |
-| D | [ESAb ATAd](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9e) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Qualification%20Round/ESAb_ATAd.py) |
+| A | [Vestigium](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020993c) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2020/Qualification%20Round/vestigium.py) |
+| B | [Nesting Depth](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9f) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2020/Qualification%20Round/nesting_depth.py) |
+| C | [Parenting Partnering Returns](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2020/Qualification%20Round/parenting_partnering_returns.py) |
+| D | [ESAb ATAd](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9e) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2020/Qualification%20Round/ESAb_ATAd.py) |
 | E | [Indicium](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209aa0) |  |
 
 ## [Round 1A](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74)
 
 | # | Problem | Solution |
 |---|---------|----------|
-| A | [Pattern Matching](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b3034) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Round%201A/pattern_matching.py) |
-| B | [Pascal Walk](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1353) | [Python 3 (first approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Round%201A/pascal_walk.py), [Python 3 (second approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Round%201A/pascal_walk_2.py) |
+| A | [Pattern Matching](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b3034) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2020/Round%201A/pattern_matching.py) |
+| B | [Pascal Walk](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1353) | [Python 3 (first approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2020/Round%201A/pascal_walk.py), [Python 3 (second approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2020/Round%201A/pascal_walk_2.py) |
 | C | [Square Dance](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1355) |  |
 
 ## [Round 1B](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2)
 
 | # | Problem | Solution |
 |---|---------|----------|
-| A | [Expogo](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b62) | [Python 3 (first approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Round%201B/expogo.py), [Python 3 (second approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2020/Round%201B/expogo_2.py) |
+| A | [Expogo](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b62) | [Python 3 (first approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2020/Round%201B/expogo.py), [Python 3 (second approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2020/Round%201B/expogo_2.py) |
 | B | [Blindfolded Bullseye](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b63) |  |
 | C | [Join the Ranks](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b64) |  |
 
@@ -61,7 +61,7 @@ TEMPLATE
 
 | # | Problem | Solution |
 |---|---------|----------|
-| A | [Overexcited Fan](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef4/0000000000317409) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2021/Round%201C/overexcited_fan.py) |
+| A | [Overexcited Fan](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef4/0000000000317409) | [Python 3](https://github.com/williamcwi/Google-Competition/blob/main/codejam/2020/Round%201C/overexcited_fan.py) |
 | B | [Overrandomized](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef4/00000000003179a1) |  |
 | C | [Oversized Pancake Choppers](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef4/00000000003172d1) |  |
 
@@ -71,9 +71,9 @@ TEMPLATE
 
 | # | Problem | Solution |
 |---|---------|----------|
-| A | [Reversort](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d0a5c) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2021/Qualification%20Round/reversort.py) |
-| B | [Moons and Umbrellas](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1145) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2021/Qualification%20Round/moons_and_umbrellas.py) |
-| C | [Reversort Engineering](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d12d7) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2021/Qualification%20Round/reversort_engineering.py) |
+| A | [Reversort](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d0a5c) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2021/Qualification%20Round/reversort.py) |
+| B | [Moons and Umbrellas](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1145) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2021/Qualification%20Round/moons_and_umbrellas.py) |
+| C | [Reversort Engineering](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d12d7) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2021/Qualification%20Round/reversort_engineering.py) |
 | D | [Median Sort](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1284) |  |
 | E | [Cheating Detection](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1155) |  |
 
@@ -81,7 +81,7 @@ TEMPLATE
 
 | # | Problem | Solution |
 |---|---------|----------|
-| A | [Append Sort](https://codingcompetitions.withgoogle.com/codejam/round/000000000043585d/00000000007549e5) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2021/Round%201A/append_sort.py) |
+| A | [Append Sort](https://codingcompetitions.withgoogle.com/codejam/round/000000000043585d/00000000007549e5) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2021/Round%201A/append_sort.py) |
 | B | [Prime Time](https://codingcompetitions.withgoogle.com/codejam/round/000000000043585d/00000000007543d8) |  |
 | C | [Hacked Exam](https://codingcompetitions.withgoogle.com/codejam/round/000000000043585d/0000000000754750) |  |
 
@@ -89,7 +89,7 @@ TEMPLATE
 
 | # | Problem | Solution |
 |---|---------|----------|
-| A | [Broken Clock](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435baf/00000000007ae694) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2021/Round%201B/broken_clock.py) |
+| A | [Broken Clock](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435baf/00000000007ae694) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2021/Round%201B/broken_clock.py) |
 | B | [Subtransmutation](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435baf/00000000007ae4aa) |  |
 | C | [Digit Blocks](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435baf/00000000007ae37b) |  |
 
@@ -97,7 +97,7 @@ TEMPLATE
 
 | # | Problem | Solution |
 |---|---------|----------|
-| A | [Closest Pick](https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c0f00) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2021/Round%201C/closest_pick.py) |
+| A | [Closest Pick](https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c0f00) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2021/Round%201C/closest_pick.py) |
 | B | [Roaring Years](https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c0f01) |  |
 | C | [Double or NOTing](https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c1139) |  |
 
@@ -105,7 +105,7 @@ TEMPLATE
 
 | # | Problem | Solution |
 |---|---------|----------|
-| A | [Minimum Sort](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435915/00000000007dc51c) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2021/Round%202/minimum_sort.py) |
+| A | [Minimum Sort](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435915/00000000007dc51c) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2021/Round%202/minimum_sort.py) |
 | B | [Matrygons](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435915/00000000007dbf06) |  |
 | C | [Hidden Pancakes](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435915/00000000007dc20c) |  |
 | D | [Retiling](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435915/00000000007dc2de) |  |
@@ -116,27 +116,27 @@ TEMPLATE
 
 | # | Problem | Solution |
 |---|---------|----------|
-| A | [Punched Cards](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a4621b) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Qualification%20Round/punched_cards.py) |
-| B | [3D Printing](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a4672b) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Qualification%20Round/3d_printing.py) |
-| C | [d1000000](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a46471) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Qualification%20Round/d1000000.py) |
-| D | [Chain Reactions](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a45ef7) | [Python 3 (first approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Qualification%20Round/chain_reactions.py), [Python 3 (second approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Qualification%20Round/chain_reactions_2.py), [Python 3 (third approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Qualification%20Round/chain_reactions_3.py) |
-| E | [Twisty Little Passages](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a45fc0) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Qualification%20Round/twisty_little_passages.py) |
+| A | [Punched Cards](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a4621b) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2022/Qualification%20Round/punched_cards.py) |
+| B | [3D Printing](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a4672b) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2022/Qualification%20Round/3d_printing.py) |
+| C | [d1000000](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a46471) | [Python 3](https://github.com/williamcwi/Google-Competition/blob/main/codejam/2022/Qualification%20Round/d1000000.py) |
+| D | [Chain Reactions](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a45ef7) | [Python 3 (first approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2022/Qualification%20Round/chain_reactions.py), [Python 3 (second approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2022/Qualification%20Round/chain_reactions_2.py), [Python 3 (third approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2022/Qualification%20Round/chain_reactions_3.py) |
+| E | [Twisty Little Passages](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a45fc0) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2022/Qualification%20Round/twisty_little_passages.py) |
 
 ## [Round 1A](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5)
 
 | # | Problem | Solution |
 |---|---------|----------|
-| A | [Double or One Thing](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8e9c) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Round%201A/double_or_one_thing.py) |
-| B | [Equal Sum](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8fc1) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Round%201A/equal_sum.py) |
+| A | [Double or One Thing](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8e9c) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2022/Round%201A/double_or_one_thing.py) |
+| B | [Equal Sum](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8fc1) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2022/Round%201A/equal_sum.py) |
 | C | [Weightlifting](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa9280) |  |
 
 ## [Round 1B](https://codingcompetitions.withgoogle.com/codejam/round/000000000087711b)
 
 | # | Problem | Solution |
 |---|---------|----------|
-| A | [Pancake Deque](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8e9c) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Round%201B/pancake_deque.py), [Python 3 (second approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Round%201B/pancake_deque_2.py) |
-| B | [Controlled Inflation](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8fc1) | [Python 3 (first approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Round%201B/controlled_inflation.py), [Python 3 (second approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Round%201B/controlled_inflation_2.py), [Python 3 (third approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Round%201B/controlled_inflation_3.py) |
-| C | [ASeDatAb](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa9280) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Round%201B/ASeDatAb.py) |
+| A | [Pancake Deque](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8e9c) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2022/Round%201B/pancake_deque.py), [Python 3 (second approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2022/Round%201B/pancake_deque_2.py) |
+| B | [Controlled Inflation](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8fc1) | [Python 3 (first approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2022/Round%201B/controlled_inflation.py), [Python 3 (second approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2022/Round%201B/controlled_inflation_2.py), [Python 3 (third approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2022/Round%201B/controlled_inflation_3.py) |
+| C | [ASeDatAb](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa9280) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/codejam/2022/Round%201B/ASeDatAb.py) |
 
 <br><br>
 
@@ -161,7 +161,7 @@ For more information, visit [Kick Start](https://codingcompetitions.withgoogle.c
 
 | # | Problem | Solution |
 |---|---------|----------|
-| A | [Sample Problem](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000942404) | [GCC](https://github.com/williamcwi/Google-Code-Jam/blob/main/kickstart/2022/Coding%20Practive%20with%20Kick%20Start%20Session%20#1/sample_problem.c) |
+| A | [Sample Problem](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000942404) | [GCC](https://github.com/williamcwi/Google-Competition/blob/main/kickstart/2022/Coding%20Practive%20with%20Kick%20Start%20Session%20%231/sample_problem.c) |
 | B | []() |  |
 | C | []() |  |
 | D | []() |  |

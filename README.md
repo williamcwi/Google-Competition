@@ -137,3 +137,32 @@ TEMPLATE
 | A | [Pancake Deque](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8e9c) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Round%201B/pancake_deque.py), [Python 3 (second approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Round%201B/pancake_deque_2.py) |
 | B | [Controlled Inflation](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8fc1) | [Python 3 (first approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Round%201B/controlled_inflation.py), [Python 3 (second approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Round%201B/controlled_inflation_2.py), [Python 3 (third approach)](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Round%201B/controlled_inflation_3.py) |
 | C | [ASeDatAb](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa9280) | [Python 3](https://github.com/williamcwi/Google-Code-Jam/blob/main/2022/Round%201B/ASeDatAb.py) |
+
+<br><br>
+
+---
+
+# Google Kick Start
+
+## What is Kick Start?
+
+Kick Start offers coders around the world the chance to develop and hone their programming skills through online-hosted competition rounds. The three-hour rounds feature a variety of algorithmic challenges, all developed by Google engineers so that you get a taste of the technical skills needed for a career at Google (the top competitors from our Kick Start rounds may be invited to interview at Google!). Our rounds are held regularly throughout the year at different times so they are easily accessible to coders everywhere. Each Kick Start Round is open to all participants, no pre-qualification needed, so you can try your hand at one or give them all a shot. In addition to our online rounds, we are hosting several Coding Practice with Kick Start sessions throughout the competition season. If you are looking for some extra practice, try these low-pressure multi-day practice sessions to learn more about our problems and platform with dedicated Google engineering support to get you ready for the next upcoming Kick Start round.
+
+## How it works
+
+Register for Kick Start once on our website and you’ll be set up to compete in any round you’d like! When each round is open, the three-hour countdown begins and you’ll compete on our website solving algorithmic and mathematical problems. Following the round, you can check out your rankings and the round analysis. If you were a top competitor, you may be contacted by Google for a chance to interview.
+
+For more information, visit [Kick Start](https://codingcompetitions.withgoogle.com/kickstart)
+
+
+# 2022
+
+## [Coding Practice with Kick Start Session #1](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332)
+
+| # | Problem | Solution |
+|---|---------|----------|
+| A | [Sample Problem](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000942404) | [GCC](https://github.com/williamcwi/Google-Code-Jam/blob/main/kickstart/2022/Coding%20Practive%20with%20Kick%20Start%20Session%20#1/sample_problem.c) |
+| B | []() |  |
+| C | []() |  |
+| D | []() |  |
+| E | []() |  |

@@ -161,7 +161,7 @@ For more information, visit [Kick Start](https://codingcompetitions.withgoogle.c
 
 | # | Problem | Solution |
 |---|---------|----------|
-| A | [Sample Problem](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000942404) | [C(GCC)](https://github.com/williamcwi/Google-Competition/blob/main/kickstart/2022/Coding%20Practive%20with%20Kick%20Start%20Session%20%231/sample_problem.c) |
+| A | [Sample Problem](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000942404) | [C(GCC)](https://github.com/williamcwi/Google-Competition/blob/main/kickstart/2022/Coding%20Practive%20with%20Kick%20Start%20Session%20%231/sample_problem.c), [Python 3](https://github.com/williamcwi/Google-Competition/blob/main/kickstart/2022/Coding%20Practive%20with%20Kick%20Start%20Session%20%231/sample_problem.py) |
 | B | [Centauri Prime](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000941ec5) |  |
 | C | [H-index](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000941e56) |  |
 | D | [Hex](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000942527) |  |

@@ -154,6 +154,20 @@ Register for Kick Start once on our website and you’ll be set up to compete in
 
 For more information, visit [Kick Start](https://codingcompetitions.withgoogle.com/kickstart)
 
+<!-- 
+TEMPLATE
+# year
+
+## []()
+
+| # | Problem | Solution |
+|---|---------|----------|
+| A | []() |  |
+| B | []() |  |
+| C | []() |  |
+| D | []() |  |
+| E | []() |  |
+ -->
 
 # 2022
 
@@ -166,3 +180,12 @@ For more information, visit [Kick Start](https://codingcompetitions.withgoogle.c
 | C | [H-index](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000941e56) | [Python 3 (first approach)](https://github.com/williamcwi/Google-Competition/blob/main/kickstart/2022/Coding%20Practice%20with%20Kick%20Start%20Session%20%231/h_index.py), [Python 3 (second approach)](https://github.com/williamcwi/Google-Competition/blob/main/kickstart/2022/Coding%20Practice%20with%20Kick%20Start%20Session%20%231/h_index_2.py) |
 | D | [Hex](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000942527) |  |
 | E | [Milk Tea](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000943934) |  |
+
+## [Round A](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e)
+
+| # | Problem | Solution |
+|---|---------|----------|
+| A | [Speed Typing](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e7021) | [Python 3 (first approach)](https://github.com/williamcwi/Google-Competition/blob/main/kickstart/2022/Round%20A/speed_typing.py), [Python 3 (second approach)](https://github.com/williamcwi/Google-Competition/blob/main/kickstart/2022/Round%20A/speed_typing_2.py) |
+| B | [Challenge Nine](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e7997) |  |
+| C | [Palindrome Free Strings](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e762e) |  |
+| D | [Interesting Integers](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e73ea) |  |

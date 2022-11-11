@@ -188,4 +188,4 @@ TEMPLATE
 | A | [Speed Typing](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e7021) | [Python 3 (first approach)](https://github.com/williamcwi/Google-Competition/blob/main/kickstart/2022/Round%20A/speed_typing.py), [Python 3 (second approach)](https://github.com/williamcwi/Google-Competition/blob/main/kickstart/2022/Round%20A/speed_typing_2.py) |
 | B | [Challenge Nine](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e7997) |  |
 | C | [Palindrome Free Strings](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e762e) |  |
-| D | [Interesting Integers](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e73ea) |  |
+| D | [Interesting Integers](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e73ea) | [Python 3](https://github.com/williamcwi/Google-Competition/blob/main/kickstart/2022/Round%20A/interesting_integers.py) |

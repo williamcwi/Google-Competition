@@ -189,3 +189,12 @@ TEMPLATE
 | B | [Challenge Nine](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e7997) |  |
 | C | [Palindrome Free Strings](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e762e) |  |
 | D | [Interesting Integers](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e73ea) | [Python 3](https://github.com/williamcwi/Google-Competition/blob/main/kickstart/2022/Round%20A/interesting_integers.py) |
+
+## [Round B](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008caa74)
+
+| # | Problem | Solution |
+|---|---------|----------|
+| A | [Infinity Area](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008caa74/0000000000acf079) | [Python 3](https://github.com/williamcwi/Google-Competition/blob/main/kickstart/2022/Round%20B/infinity_area.py), [C(GCC)](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008caa74/0000000000acf079) | [Python 3](https://github.com/williamcwi/Google-Competition/blob/main/kickstart/2022/Round%20B/infinity_area.c) |
+| B | [Palindromic Factors](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008caa74/0000000000acee89) |  |
+| C | [Unlock the Padlock](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008caa74/0000000000acef55) |  |
+| D | [Hamiltonian Tour](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008caa74/0000000000acf318) |  |

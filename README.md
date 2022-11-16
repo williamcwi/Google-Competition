@@ -194,7 +194,7 @@ TEMPLATE
 
 | # | Problem | Solution |
 |---|---------|----------|
-| A | [Infinity Area](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008caa74/0000000000acf079) | [Python 3](https://github.com/williamcwi/Google-Competition/blob/main/kickstart/2022/Round%20B/infinity_area.py), [C(GCC)](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008caa74/0000000000acf079) | [Python 3](https://github.com/williamcwi/Google-Competition/blob/main/kickstart/2022/Round%20B/infinity_area.c) |
+| A | [Infinity Area](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008caa74/0000000000acf079) | [Python 3](https://github.com/williamcwi/Google-Competition/blob/main/kickstart/2022/Round%20B/infinity_area.py), [C(GCC)](https://github.com/williamcwi/Google-Competition/blob/main/kickstart/2022/Round%20B/infinity_area.c) |
 | B | [Palindromic Factors](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008caa74/0000000000acee89) | [Python 3](https://github.com/williamcwi/Google-Competition/blob/main/kickstart/2022/Round%20B/palindromic_factors.py) |
 | C | [Unlock the Padlock](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008caa74/0000000000acef55) |  |
 | D | [Hamiltonian Tour](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008caa74/0000000000acf318) |  |
